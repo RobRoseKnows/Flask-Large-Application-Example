@@ -7,10 +7,8 @@ several aspects of the project.
 For information on how to deploy this application to different production environments, visit
 [the project's wiki](https://github.com/Robpol86/Flask-Large-Application-Example/wiki).
 
-[![Build Status](https://travis-ci.org/Robpol86/Flask-Large-Application-Example.svg?branch=master)]
-(https://travis-ci.org/Robpol86/Flask-Large-Application-Example)
-[![Coverage Status](https://img.shields.io/coveralls/Robpol86/Flask-Large-Application-Example.svg)]
-(https://coveralls.io/r/Robpol86/Flask-Large-Application-Example)
+[![Build Status](https://travis-ci.org/Robpol86/Flask-Large-Application-Example.svg?branch=master)](https://travis-ci.org/Robpol86/Flask-Large-Application-Example)
+[![Coverage Status](https://img.shields.io/coveralls/Robpol86/Flask-Large-Application-Example.svg)](https://coveralls.io/r/Robpol86/Flask-Large-Application-Example)
 
 ## Features
 
